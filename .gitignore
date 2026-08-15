@@ -1,4 +1,22 @@
-textone.md
-*Zone.Identifier
-node_modules
-dist
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+*.log
+.env*# 操作系统
+
+Thumbs.db # Windows缩略图缓存
+*.Zone.Identifier # WSL出现的ADS标记文件
