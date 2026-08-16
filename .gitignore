@@ -21,3 +21,5 @@ dist/
 
 Thumbs.db # Windows缩略图缓存
 *.Zone.Identifier # WSL出现的ADS标记文件
+
+backend/.venv
